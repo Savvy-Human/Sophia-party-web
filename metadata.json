@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sophia's 6th Birthday Bash",
+  "description": "The most epic K-POP Demon Hunter themed birthday event. Features AI-powered Character Transformation using Gemini Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
